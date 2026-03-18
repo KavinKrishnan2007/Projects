@@ -21,7 +21,6 @@ A hybrid quantum–classical framework for optimizing financial portfolios using
 PennyLane, Python, NumPy, Matplotlib, Pandas  
 
 **Author / Project Team**  
-
-Krishnam - Engineering Physics, Class of 2029, IIT Indore
-Anushri - Mathematics and Computing, Class of 2029, IIT Indore
-Kavin – Metallurgical Engineering & Material Sciences, Class of 2029, IIT Indore
+- Krishnam - Engineering Physics, Class of 2029, IIT Indore
+- Anushri - Mathematics and Computing, Class of 2029, IIT Indore
+- Kavin – Metallurgical Engineering & Material Sciences, Class of 2029, IIT Indore
